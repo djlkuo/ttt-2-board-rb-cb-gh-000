@@ -1,3 +1,3 @@
 def greeting
-  purs "Hi there!"
+  puts "Hi there!"
 end
